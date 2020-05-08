@@ -6,8 +6,8 @@ html, body {
     position: relative;
     vertical-align: baseline;
     background-color: #091933;
-    background-color: #000000;
-    background-image: url("Wavey-Fingerprint.svg");}
+    background-image: url("Wavey-Fingerprint.svg");
+  }
   
   html {
       -webkit-font-smoothing: antialiased;
